@@ -1,58 +1,126 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/dbc5f9/ffffff?text=ShinaDev+Portfolio+Banner" alt="Banner" />
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm Selene Contigiani
 
-<h1 align="center">Hi there 👋 I'm <strong>Selene Contigiani</strong></h1>
-<h3 align="center">aka <strong>ShinaDev</strong> — Game Developer & Programmer</h3>
+### Game Developer | Unity Programmer | Interactive Experience Designer
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selencontigiani)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selene.contigiani@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-9b59b6?style=for-the-badge&logo=github&logoColor=white)](#)
 
-### 🧍‍♀️ About Me
-I'm a soon-to-graduate student in **Video Game Development and Virtual Simulations**, focusing on **Unity programming**.  
-I love creating interactive and optimized experiences that blend creativity and technology.  
-
-🎮 Currently working on my thesis project — a 2D mobile game built in Unity.  
-💡 Passionate about design, storytelling, and immersive player experiences.  
-🌱 Always learning new techniques to make better games.  
+</div>
 
 ---
 
-### 🕹️ Featured Projects
+## 🎮 About Me
 
-| Project | Description |
-|----------|-------------|
-| 🎖️ **MedEvac** | A story-driven military game inspired by *Papers, Please*, where the player is a medic balancing duty and morality. |
-| ☕ **Café Thesis Game** | A relaxing management sim inspired by *Good Pizza, Great Pizza*, featuring real-world QR reward integration. |
+I'm a **Video Game Development and Virtual Simulations** student, about to graduate, with a strong focus on **Unity programming** and creating meaningful player experiences.
 
-> 🔗 More projects coming soon...
+```yaml
+current_focus: "Thesis Project - 2D Mobile Game in Unity"
+interests: ["Game Design", "Interactive Storytelling", "Player Experience", "Code Optimization"]
+learning: ["Advanced Unity Patterns", "Mobile Game Development", "UI/UX for Games"]
+goal: "Create games that blend creativity, technology, and engaging gameplay"
+```
 
----
+### What drives me
 
-### 🧰 Tech & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white" />
-</p>
+- 🎨 **Design & Creativity**: I believe great games balance mechanics with storytelling
+- ⚡ **Optimization**: Writing clean, efficient code is a priority
+- 🌱 **Continuous Learning**: Always exploring new techniques and industry trends
+- 🎯 **Player-Centered**: Every decision I make considers the player experience
 
 ---
 
-### 📫 Contact
+## 💻 Tech Stack
 
-📧 **Email:** selene.contigiani@example.com *(replace with yours)*  
-💼 **LinkedIn:** [linkedin.com/in/selencontigiani](#)  
+### Core Skills
+<div align="center">
 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### Also Familiar With
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+</div>
 
 ---
 
-### 📄 CV
-*(Link coming soon — will be added once your Drive file is ready)*
+## 🚀 Projects
+
+### 🏎️ Fast Try
+> *In Development*
+
+An endless runner mobile game where you drive a car on an infinite highway, shooting down enemies while collecting power-ups. Every few kilometers, a slot machine triggers, granting random upgrades and special abilities to your vehicle.
+
+**Key Features**:
+- Endless highway gameplay with dynamic difficulty
+- Combat system with shooting mechanics
+- Slot machine progression system for upgrades
+- Power-up variety for strategic gameplay
+
+**Tech**: Unity, C#, Mobile Development, Game Design
 
 ---
 
-⭐️ From [Shina-Dev](https://github.com/Shina-Dev)
+### 🏉 Rugby Club Promotional Game
+> *Thesis Project - In Development*
+
+A rugby-themed mobile game designed as a promotional tool for a local rugby club. Features multiple mini-games that capture the spirit and excitement of rugby, making it accessible and fun for all audiences.
+
+**Key Features**:
+- Collection of rugby-themed mini-games
+- Mobile-optimized controls and UI
+- Club branding integration
+- Engaging gameplay for promotional purposes
+
+**Tech**: Unity, C#, Mobile Development, Mini-game Design
+
+---
+
+> 📦 **More projects coming soon!** I'm currently focusing on completing my thesis and will be uploading repositories progressively.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Shina-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shina-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shina-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing game development, collaborating on projects, or just chatting about interesting mechanics and design!
+
+<div align="center">
+
+📧 **Email**: selene.contigiani@example.com  
+💼 **LinkedIn**: [linkedin.com/in/selencontigiani](https://linkedin.com/in/selencontigiani)  
+📄 **CV**: Coming soon
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Great games are born from the intersection of creativity and code"*
+
+⭐️ From [Shina-Dev](https://github.com/Shina-Dev) with 💜
+
+</div>
