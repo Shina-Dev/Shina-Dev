@@ -21,16 +21,16 @@ I'm a **Video Game Development and Virtual Simulations** student, about to gradu
 ```yaml
 current_focus: "Thesis Project - 2D Mobile Game in Unity"
 interests: ["Game Design", "Interactive Storytelling", "Player Experience", "Code Optimization"]
-learning: ["Advanced Unity Patterns", "Mobile Game Development", "UI/UX for Games"]
+learning: ["Advanced Unity Patterns", "Mobile Game Development", "AI for Games"]
 goal: "Create games that blend creativity, technology, and engaging gameplay"
 ```
 
 ### What drives me
 
-- 🎨 **Design & Creativity**: I believe great games balance mechanics with storytelling
-- ⚡ **Optimization**: Writing clean, efficient code is a priority
-- 🌱 **Continuous Learning**: Always exploring new techniques and industry trends
-- 🎯 **Player-Centered**: Every decision I make considers the player experience
+-  **Design & Creativity**: I believe great games balance mechanics with storytelling
+-  **Optimization**: Writing clean, efficient code is a priority
+-  **Continuous Learning**: Always exploring new techniques and industry trends
+-  **Player-Centered**: Every decision I make considers the player experience
 
 ---
 
@@ -91,19 +91,6 @@ A rugby-themed mobile game designed as a promotional tool for a local rugby club
 
 > 📦 **More projects coming soon!** I'm currently focusing on completing my thesis and will be uploading repositories progressively.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Shina-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shina-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shina-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
