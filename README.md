@@ -1,4 +1,6 @@
 <div align="center">
+
+![Banner](./banner.png)
   
 # 👋 Hi, I'm Selene Contigiani
 
