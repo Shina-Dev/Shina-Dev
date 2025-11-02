@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover; object-position: center; max-height: 250px;">
+<img src="./baner.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover; object-position: center; max-height: 250px;">
   
 # 👋 Hi, I'm Selene Contigiani
 
