@@ -14,7 +14,7 @@
 
 ---
 
-## 🎮 About Me
+## About Me
 
 I'm a **Video Game Development and Virtual Simulations** student about to graduate, focused on building optimized and engaging gameplay systems in Unity.
 
@@ -36,7 +36,7 @@ goal: "Build polished and scalable gameplay experiences"
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Core
 <div align="center">
@@ -59,7 +59,7 @@ goal: "Build polished and scalable gameplay experiences"
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏎️ FastTry
 Endless mobile runner featuring dynamic difficulty, combat mechanics, and a slot-based upgrade system.
